@@ -1,0 +1,16 @@
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+.navbar-brand{
+    cursor: default;
+}
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+}
+.space{
+    margin-top:20px;
+}
